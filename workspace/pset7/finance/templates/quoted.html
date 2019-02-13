@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    quoted
+{% endblock %}
+
+{% block main %}
+        <div>
+            {{ name }}
+
+            {% if not name|string() == symbol|string() %}
+                {{ symbol }}
+            {% endif %}
+
+            {{ price }}
+        </div>
+{% endblock %}
