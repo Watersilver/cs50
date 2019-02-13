@@ -40,5 +40,5 @@ My cs50 projects
     </ul>
   </li>
   <li><a href="https://github.com/Watersilver/cs50/tree/master/workspace/pset7/finance">pset7/Finance (Python(Flask, Jinja2), SQL, HTML): Stock trading simulator. Queries Yahoo or Alpha Vantage for quotes</a></li>
-  <li><a href="https://github.com/Watersilver/cs50/tree/master/pset8/mashup">pset8/Mashup (Python(Flask), Javascript(jQuery, Json, Ajax)): Website that lets users search for news articles atop a map (Using Google Maps and Google News)</a></li>
+  <li><a href="https://github.com/Watersilver/cs50/tree/master/workspace/pset8/mashup">pset8/Mashup (Python(Flask), Javascript(jQuery, Json, Ajax)): Website that lets users search for news articles atop a map (Using Google Maps and Google News)</a></li>
 </ul>
