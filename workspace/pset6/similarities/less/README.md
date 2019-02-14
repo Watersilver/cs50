@@ -13,5 +13,5 @@ Web app where you can upload two files to be compared.
       <li>Compare substrings (sequence of characters) of length n</li>
     </ul>
   </li>
-  <li>Watch in glee as the website places the contents of your files side by side and highlights the similarities in the way you specified!</li>
+  <li>Watch in awe the website placing the contents of your files side by side and highlighting the similarities in the way you specified!</li>
 </ul>
